@@ -3,7 +3,7 @@ COMPANY: CODTECH IT SOLUTIONS
 ID:CT12DS2651
 DOMAIN:DATA ANALYTICS
 DURATION:NOVEMBER 5TH,2024-JANUARY 5TH,2025
-MENTOR:SRAVANI
+MENTOR:NEELA SANTHOSH
 OVERVIEW OF THE PROJECT:
 Project Objective
 The goal of your project seems to involve analyzing and visualizing customer data to gain insights into demographics, spending behavior, and product preferences. Key areas of focus include:
